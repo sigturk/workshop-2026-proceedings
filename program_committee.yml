@@ -1,0 +1,351 @@
+- entries:
+  - dblp_id: https://dblp.org/pid/245/9493
+    emails: '****@gmail.com'
+    first_name: Abdullatif
+    google_scholar_id: https://scholar.google.com/citations?user=fxf_uAwAAAAJ&hl=en
+    homepage: https://akoksal.com/
+    institution: Ludwig-Maximilians-Universität München
+    last_name: Köksal
+    name: Abdullatif Köksal
+    semantic_scholar_id: https://www.semanticscholar.org/author/Abdullatif-K%C3%B6ksal/1999179692
+    username: ~Abdullatif_Köksal1
+  - dblp_id: https://dblp.org/pid/95/1344
+    emails: '****@andrew.cmu.edu'
+    first_name: Kemal
+    google_scholar_id: https://scholar.google.com.tw/citations?user=JLk0hs8AAAAJ
+    homepage: https://www.andrew.cmu.edu/user/ko/
+    institution: Carnegie Mellon University
+    last_name: Oflazer
+    name: Kemal Oflazer
+    semantic_scholar_id: https://www.semanticscholar.org/author/Kemal-Oflazer/1723120
+    username: ~Kemal_Oflazer1
+  - dblp_id: https://dblp.org/pid/135/8835
+    emails: ovarol2005@gmail.com
+    first_name: Onur
+    google_scholar_id: https://scholar.google.com/citations?user=t8YAefAAAAAJ&hl=en
+    homepage: http://www.onurvarol.com/
+    institution: Sabanci University
+    last_name: Varol
+    name: Onur Varol
+    username: ~Onur_Varol1
+  role: Program Chairs
+- entries:
+  - dblp_id: https://dblp.org/pid/33/3494
+    emails: '****@gmail.com'
+    first_name: Cem
+    google_scholar_id: https://scholar.google.com/citations?user=yG9WEzgAAAAJ&hl=en
+    homepage: https://bozsahin.github.io/
+    institution: Bogazici University
+    last_name: Bozsahin
+    middle_name: H.
+    name: Cem H. Bozsahin
+    orcid: https://orcid.org/0000-0002-2494-9478
+    username: ~Cem_H._Bozsahin1
+  role: Invited Reviewers
+  type: name_block
+- entries:
+  - dblp_id: https://dblp.org/pid/332/1546.html
+    emails: '****@illinois.edu'
+    first_name: Emre Can
+    google_scholar_id: https://scholar.google.com/citations?user=l6h_3H8AAAAJ&hl
+    homepage: https://emrecanacikgoz.github.io/
+    last_name: Acikgoz
+    name: Emre Can Acikgoz
+    semantic_scholar_id: https://www.semanticscholar.org/author/Emre-Can-Acikgoz/2189544804
+    username: ~Emre_Can_Acikgoz1
+  - emails: '****@gmail.com'
+    first_name: Ilseyar
+    google_scholar_id: https://scholar.google.com/citations?user=BLoEGKwAAAAJ&hl=ru&oi=ao
+    institution: Kazan Federal University
+    last_name: Alimova
+    name: Ilseyar Alimova
+    username: ~Ilseyar_Alimova1
+  - emails: '****@yildiz.edu.tr'
+    first_name: Mehmet
+    google_scholar_id: https://scholar.google.com.tr/citations?hl=tr&user=qTUSAy0AAAAJ
+    homepage: https://avesis.yildiz.edu.tr/amasyali/
+    institution: Yildiz Technical University
+    last_name: Amasyali
+    middle_name: Fatih
+    name: Mehmet Fatih Amasyali
+    username: ~Mehmet_Fatih_Amasyali2
+  - emails: '****@sabanciuniv.edu'
+    first_name: İnanç
+    institution: Sabanci University
+    last_name: Arın
+    name: İnanç Arın
+    orcid: https://orcid.org/0000-0003-4668-3014
+    username: ~İnanç_Arın1
+  - dblp_id: https://dblp.org/pid/351/3238
+    emails: '****@illinois.edu'
+    first_name: Nimet
+    google_scholar_id: https://scholar.google.com/citations?user=p50dDnsAAAAJ&hl
+    homepage: https://beyzabozdag.github.io/
+    last_name: Bozdag
+    middle_name: Beyza
+    name: Nimet Beyza Bozdag
+    orcid: https://orcid.org/0009-0009-8078-3562
+    username: ~Nimet_Beyza_Bozdag1
+  - dblp_id: https://dblp.org/pid/33/3494
+    emails: '****@gmail.com'
+    first_name: Cem
+    google_scholar_id: https://scholar.google.com/citations?user=yG9WEzgAAAAJ&hl=en
+    homepage: https://bozsahin.github.io/
+    institution: Bogazici University
+    last_name: Bozsahin
+    middle_name: H.
+    name: Cem H. Bozsahin
+    orcid: https://orcid.org/0000-0002-2494-9478
+    username: ~Cem_H._Bozsahin1
+  - dblp_id: https://dblp.org/pid/200/8444
+    emails: '****@gmail.com'
+    first_name: Necva
+    google_scholar_id: https://scholar.google.com/citations?user=Fuu0gaAAAAAJ&hl=tr
+    last_name: Bölücü
+    name: Necva Bölücü
+    orcid: https://orcid.org/0000-0001-8121-3048
+    semantic_scholar_id: https://www.semanticscholar.org/author/Necva-Bolucu/2126412923
+    username: ~Necva_Bölücü1
+  - dblp_id: https://dblp.org/pid/92/8155
+    emails: '****@sfs.uni-tuebingen.de'
+    first_name: Cagri
+    google_scholar_id: https://scholar.google.com/citations?user=zJhEULcAAAAJ
+    homepage: http://coltekin.net/cagri/
+    institution: University of Tuebingen
+    last_name: Coltekin
+    name: Cagri Coltekin
+    orcid: https://orcid.org/0000-0003-1031-6327
+    semantic_scholar_id: https://www.semanticscholar.org/author/%C3%87a%C4%9Fr%C4%B1-%C3%87%C3%B6ltekin/103304646
+    username: ~Cagri_Coltekin1
+  - dblp_id: https://dblp.org/pid/136/9077
+    emails: '****@gmail.com'
+    first_name: A.
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=rnwJVmAAAAAJ&view_op=list_works&sortby=pubdate
+    homepage: http://www.asezadogruoz.com
+    institution: Ghent University
+    last_name: Doğruöz
+    middle_name: Seza
+    name: A. Seza Doğruöz
+    semantic_scholar_id: https://www.semanticscholar.org/author/Seza-Do%C4%9Fru%C3%B6z/148034768
+    username: ~A._Seza_Doğruöz1
+  - dblp_id: https://dblp.org/pid/57/1920
+    emails: '****@itu.edu.tr'
+    first_name: Gülşen
+    google_scholar_id: https://scholar.google.com/citations?user=25CpSdkAAAAJ&hl=tr
+    homepage: https://web.itu.edu.tr/gulsenc/
+    institution: Istanbul Technical University
+    last_name: Eryiğit
+    name: Gülşen Eryiğit
+    orcid: https://orcid.org/0000-0003-4607-7305
+    semantic_scholar_id: https://www.semanticscholar.org/author/G%C3%BCl%C5%9Fen-Eryi%C4%9Fit/3348151
+    username: ~Gülşen_Eryiğit1
+  - dblp_id: https://dblp.org/pid/12/4512
+    emails: '****@bogazici.edu.tr'
+    first_name: Tunga
+    google_scholar_id: https://scholar.google.com/citations?user=oymuGoYAAAAJ&hl=en&oi=ao
+    homepage: https://www.cmpe.boun.edu.tr/~gungort/
+    institution: Bogazici University
+    last_name: Gungor
+    name: Tunga Gungor
+    orcid: https://orcid.org/0000-0001-9448-9422
+    semantic_scholar_id: https://www.semanticscholar.org/author/Tunga-G%C3%BCng%C3%B6r/1765713
+    username: ~Tunga_Gungor1
+  - dblp_id: https://dblp.org/pid/h/DilekZHakkaniTur
+    emails: '****@illinois.edu'
+    first_name: Dilek
+    google_scholar_id: https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en
+    homepage: https://siebelschool.illinois.edu/about/people/faculty/dilek
+    institution: University of Illinois at Urbana-Champaign
+    last_name: Hakkani-Tür
+    name: Dilek Hakkani-Tür
+    orcid: https://orcid.org/0000-0001-5246-2117
+    semantic_scholar_id: https://www.semanticscholar.org/author/Dilek-Z.-Hakkani-T%C3%BCr/1395813836
+    username: ~Dilek_Hakkani-Tür1
+  - dblp_id: https://dblp.org/pid/382/4815
+    emails: '****@vt.edu'
+    first_name: Jafar
+    last_name: Isbarov
+    name: Jafar Isbarov
+    orcid: https://orcid.org/0000-0001-8404-2192
+    username: ~Jafar_Isbarov1
+  - dblp_id: https://dblp.org/pid/184/8318
+    emails: '****@sabanciuniv.edu'
+    first_name: Dilara
+    google_scholar_id: https://scholar.google.com/citations?user=b6-c_A0AAAAJ
+    homepage: https://dilarakkl.github.io
+    institution: Sabanci University
+    last_name: Keküllüoğlu
+    name: Dilara Keküllüoğlu
+    orcid: https://orcid.org/0000-0003-1214-9876
+    username: ~Dilara_Keküllüoğlu1
+  - emails: '****@bilkent.edu.tr'
+    first_name: Aykut
+    homepage: http://aykut.koc.bilkent.edu.tr/
+    institution: Bilkent University
+    last_name: Koc
+    name: Aykut Koc
+    username: ~Aykut_Koc1
+  - dblp_id: https://dblp.org/pid/184/8905
+    emails: '****@ri.se'
+    first_name: Murathan
+    google_scholar_id: https://scholar.google.com.tr/citations?user=NK6-M_gAAAAJ&hl=en
+    institution: RISE Research Institutes of Sweden AB
+    last_name: Kurfali
+    name: Murathan Kurfali
+    orcid: https://orcid.org/0000-0002-7020-8275
+    semantic_scholar_id: https://www.semanticscholar.org/author/Murathan-Kurfali/3449025
+    username: ~Murathan_Kurfali1
+  - dblp_id: https://dblp.org/pid/245/9493
+    emails: '****@gmail.com'
+    first_name: Abdullatif
+    google_scholar_id: https://scholar.google.com/citations?user=fxf_uAwAAAAJ&hl=en
+    homepage: https://akoksal.com/
+    institution: Ludwig-Maximilians-Universität München
+    last_name: Köksal
+    name: Abdullatif Köksal
+    semantic_scholar_id: https://www.semanticscholar.org/author/Abdullatif-K%C3%B6ksal/1999179692
+    username: ~Abdullatif_Köksal1
+  - dblp_id: https://dblp.org/pid/78/4390
+    emails: '****@brandeis.edu'
+    first_name: Constantine
+    google_scholar_id: https://scholar.google.com/citations?user=hDOLookAAAAJ&hl=en
+    homepage: https://lignos.org/
+    institution: Brandeis University
+    last_name: Lignos
+    name: Constantine Lignos
+    orcid: https://orcid.org/0000-0001-6410-2848
+    semantic_scholar_id: https://www.semanticscholar.org/author/Constantine-Lignos/1737047
+    username: ~Constantine_Lignos1
+  - emails: '****@ist.ac.at'
+    first_name: Anar
+    institution: Institute of Science and Technology Austria
+    last_name: Rzayev
+    name: Anar Rzayev
+    username: ~Anar_Rzayev1
+  - dblp_id: https://dblp.org/pid/202/7105
+    emails: '****@gmail.com'
+    first_name: Lütfi Kerem
+    google_scholar_id: https://scholar.google.com/citations?user=w5ePE1oAAAAJ&hl=en
+    homepage: https://www.cis.uni-muenchen.de/personen/mitarbeiter/lksenel/index.html
+    institution: The Center for Information and Language Processing
+    last_name: Senel
+    name: Lütfi Kerem Senel
+    orcid: https://orcid.org/0000-0001-5359-0583
+    semantic_scholar_id: https://www.semanticscholar.org/author/Lutfi-Kerem-Senel/8595111
+    username: ~Lütfi_Kerem_Senel1
+  - dblp_id: https://dblp.org/pid/42/3214
+    emails: '****@itu.edu.tr'
+    first_name: A.
+    institution: Istanbul Technical University
+    last_name: Tantug
+    middle_name: Cüneyd
+    name: A. Cüneyd Tantug
+    username: ~A._Cüneyd_Tantug1
+  - dblp_id: https://dblp.org/pid/31/10606
+    emails: '****@metu.edu.tr'
+    first_name: Cagri
+    google_scholar_id: https://scholar.google.com/citations?user=3iEvqKoAAAAJ
+    homepage: https://www.cagritoraman.com
+    institution: METU, Middle East Technical University
+    last_name: Toraman
+    name: Cagri Toraman
+    orcid: https://orcid.org/0000-0001-6976-3258
+    semantic_scholar_id: https://www.semanticscholar.org/author/Cagri-Toraman/2648640
+    username: ~Cagri_Toraman1
+  - emails: '****@ieee.org'
+    first_name: Gokhan
+    google_scholar_id: https://scholar.google.com/citations?user=8XSlAp4AAAAJ&hl=en
+    institution: University of Illinois at Urbana-Champaign
+    last_name: Tur
+    name: Gokhan Tur
+    semantic_scholar_id: https://www.semanticscholar.org/author/Gokhan-Tur/5108268
+    username: ~Gokhan_Tur2
+  - emails: '****@ieee.org'
+    first_name: Gokhan
+    google_scholar_id: https://scholar.google.com/citations?user=8XSlAp4AAAAJ&hl=en
+    institution: University of Illinois at Urbana-Champaign
+    last_name: Tur
+    name: Gokhan Tur
+    semantic_scholar_id: https://www.semanticscholar.org/author/Gokhan-Tur/5108268
+    username: ~Gokhan_Tur2
+  - dblp_id: https://dblp.org/pid/126/8553
+    emails: '****@swarthmore.edu'
+    first_name: Jonathan
+    google_scholar_id: https://scholar.google.com/citations?user=AC1uPXIAAAAJ
+    homepage: http://jnw.name/
+    institution: Swarthmore College
+    last_name: Washington
+    name: Jonathan Washington
+    orcid: https://orcid.org/0000-0003-1452-8204
+    semantic_scholar_id: https://www.semanticscholar.org/author/Jonathan-North-Washington/153524633
+    username: ~Jonathan_Washington1
+  - dblp_id: https://dblp.org/pid/26/4426.html
+    emails: '****@gmail.com'
+    first_name: Suveyda
+    google_scholar_id: https://scholar.google.com.tr/citations?user=3_wcsLYAAAAJ&hl=en
+    institution: GenAIus Technologies
+    last_name: Yeniterzi
+    name: Suveyda Yeniterzi
+    orcid: https://orcid.org/0009-0002-8392-8121
+    semantic_scholar_id: https://www.semanticscholar.org/author/Suveyda-Yeniterzi/6941079
+    username: ~Suveyda_Yeniterzi1
+  - dblp_id: https://dblp.org/pid/10/4192
+    emails: '****@gmail.com'
+    first_name: Reyyan
+    google_scholar_id: https://scholar.google.com.tr/citations?user=9SYQ4QsAAAAJ
+    institution: GenAIus Technologies
+    last_name: Yeniterzi
+    name: Reyyan Yeniterzi
+    orcid: https://orcid.org/0000-0002-8501-6209
+    semantic_scholar_id: https://www.semanticscholar.org/author/Reyyan-Yeniterzi/2819613
+    username: ~Reyyan_Yeniterzi2
+  - dblp_id: https://dblp.org/pid/84/4160
+    emails: '****@ku.edu.tr'
+    first_name: Deniz
+    google_scholar_id: https://scholar.google.com.tw/citations?user=EJurXJ4AAAAJ
+    homepage: http://www.denizyuret.com/
+    institution: Koc University
+    last_name: Yuret
+    name: Deniz Yuret
+    username: ~Deniz_Yuret1
+  - dblp_id: https://dblp.org/pid/318/2866
+    emails: '****@gmail.com'
+    first_name: Kerem
+    google_scholar_id: https://scholar.google.co.in/citations?user=sQ_npIsAAAAJ&hl=en&oi=sra
+    homepage: http://keremzaman.github.io/
+    institution: Department of Computer Science, University of North Carolina at Chapel
+      Hill
+    last_name: Zaman
+    name: Kerem Zaman
+    semantic_scholar_id: https://www.semanticscholar.org/author/Kerem-Zaman/2162194848
+    username: ~Kerem_Zaman1
+  - dblp_id: https://dblp.org/pid/11/9770
+    emails: '****@metu.edu.tr'
+    first_name: Deniz
+    google_scholar_id: https://scholar.google.com.tr/citations?user=KXZUOtcAAAAJ&hl=en
+    homepage: http://users.metu.edu.tr/dezeyrek/
+    institution: METU
+    last_name: Zeyrek
+    name: Deniz Zeyrek
+    orcid: https://orcid.org/0000-0001-9248-0141
+    semantic_scholar_id: https://www.semanticscholar.org/author/Deniz-Zeyrek/1835543
+    username: ~Deniz_Zeyrek1
+  - dblp_id: https://dblp.org/pid/26/6952
+    emails: '****@bogazici.edu.tr'
+    first_name: Arzucan
+    google_scholar_id: https://scholar.google.com.tr/citations?user=8Kn4-EsAAAAJ&hl=en
+    institution: Bogazici University
+    last_name: Özgür
+    name: Arzucan Özgür
+    semantic_scholar_id: https://www.semanticscholar.org/author/Arzucan-Özgür/1702629
+    username: ~Arzucan_Özgür1
+  - emails: '****@google.com'
+    first_name: Adnan
+    google_scholar_id: https://scholar.google.com/citations?user=nrakZ4gAAAAJ&hl=en&oi=ao
+    homepage: https://research.google/people/adnan-ozturel/
+    institution: Google
+    last_name: Öztürel
+    name: Adnan Öztürel
+    username: ~Adnan_Öztürel1
+  role: Reviewers
+  type: name_block

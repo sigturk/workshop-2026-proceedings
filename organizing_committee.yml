@@ -1,0 +1,24 @@
+- role: General Chair
+  members:
+    - first_name: Kemal
+      last_name: Oflazer
+      institution: Carnegie Mellon University, USA
+- role: Program Committee Co-Chairs
+  members:
+    - first_name: Abdullatif
+      last_name: Köksal
+      institution: Google Deepmind, UK
+    - first_name: Onur
+      last_name: Varol
+      institution: Sabanci University, Türkiye
+- role: Publicity Chair
+  members:
+    - first_name: Jonne
+      last_name: Sälevä
+      institution: Brandeis University, USA
+- role: Shared-Task Chair
+  members:
+    - first_name: Gözde
+      middle_name: Gül
+      last_name: Şahin
+      institution: FAU Erlangen-Nürnberg, Germany
