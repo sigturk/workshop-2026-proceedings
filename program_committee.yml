@@ -4,7 +4,7 @@
     first_name: Abdullatif
     google_scholar_id: https://scholar.google.com/citations?user=fxf_uAwAAAAJ&hl=en
     homepage: https://akoksal.com/
-    institution: Ludwig-Maximilians-Universität München
+    institution: Google Deepmind
     last_name: Köksal
     name: Abdullatif Köksal
     semantic_scholar_id: https://www.semanticscholar.org/author/Abdullatif-K%C3%B6ksal/1999179692
@@ -29,20 +29,6 @@
     name: Onur Varol
     username: ~Onur_Varol1
   role: Program Chairs
-- entries:
-  - dblp_id: https://dblp.org/pid/33/3494
-    emails: '****@gmail.com'
-    first_name: Cem
-    google_scholar_id: https://scholar.google.com/citations?user=yG9WEzgAAAAJ&hl=en
-    homepage: https://bozsahin.github.io/
-    institution: Bogazici University
-    last_name: Bozsahin
-    middle_name: H.
-    name: Cem H. Bozsahin
-    orcid: https://orcid.org/0000-0002-2494-9478
-    username: ~Cem_H._Bozsahin1
-  role: Invited Reviewers
-  type: name_block
 - entries:
   - dblp_id: https://dblp.org/pid/332/1546.html
     emails: '****@illinois.edu'

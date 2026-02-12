@@ -752,8 +752,8 @@
     middle_name: Can
     institution: Roketsan Inc., Artificial Intelligence Unit
     last_name: Baytekin
-    name: can.baytekin@roketsan.com.tr
-    username: can.baytekin@roketsan.com.tr
+    name: Can Baytekin
+    username: ~Can_Baytekin
   - emails: '****@roketsan.com.tr'
     first_name: Süha
     google_scholar_id: https://scholar.google.com/citations?user=46CjxAsAAAAJ&hl=en
@@ -792,7 +792,7 @@
     middle_name: Kaan
     institution: Roketsan Inc., Artificial Intelligence Unit
     last_name: Görür
-    name: kaan.gorur@roketsan.com.tr
+    name: Kaan Görür
     username: kaan.gorur@roketsan.com.tr
   decision: EACL
   file: 21.pdf
@@ -915,11 +915,12 @@
     name: Süha Kağan Köse
     username: ~Süha_Kağan_Köse1
   - emails: can.baytekin@roketsan.com.tr
-    first_name: Can
-    institution: Roketsan
+    first_name: Mehmet
+    middle_name: Can
+    institution: Roketsan Inc., Artificial Intelligence Unit
     last_name: Baytekin
-    name: can.baytekin@roketsan.com.tr
-    username: can.baytekin@roketsan.com.tr
+    name: Can Baytekin
+    username: ~Can_Baytekin
   - emails: '****@hacettepe.edu.tr'
     first_name: Burak
     google_scholar_id: https://scholar.google.com/citations?user=rjw_IMwAAAAJ&hl=tr
@@ -927,10 +928,11 @@
     name: Burak Aktaş
     username: ~Burak_Aktaş2
   - emails: kaan.gorur@roketsan.com.tr
-    first_name: Kaan
-    institution: NA
+    first_name: Bilge
+    middle_name: Kaan
+    institution: Roketsan Inc., Artificial Intelligence Unit
     last_name: Görür
-    name: kaan.gorur@roketsan.com.tr
+    name: Kaan Görür
     username: kaan.gorur@roketsan.com.tr
   - emails: '****@studenti.polito.it'
     first_name: Evren
