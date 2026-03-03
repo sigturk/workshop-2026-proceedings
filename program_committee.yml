@@ -9,16 +9,6 @@
     name: Abdullatif Köksal
     semantic_scholar_id: https://www.semanticscholar.org/author/Abdullatif-K%C3%B6ksal/1999179692
     username: ~Abdullatif_Köksal1
-  - dblp_id: https://dblp.org/pid/95/1344
-    emails: '****@andrew.cmu.edu'
-    first_name: Kemal
-    google_scholar_id: https://scholar.google.com.tw/citations?user=JLk0hs8AAAAJ
-    homepage: https://www.andrew.cmu.edu/user/ko/
-    institution: Carnegie Mellon University
-    last_name: Oflazer
-    name: Kemal Oflazer
-    semantic_scholar_id: https://www.semanticscholar.org/author/Kemal-Oflazer/1723120
-    username: ~Kemal_Oflazer1
   - dblp_id: https://dblp.org/pid/135/8835
     emails: ovarol2005@gmail.com
     first_name: Onur
@@ -238,14 +228,6 @@
     orcid: https://orcid.org/0000-0001-6976-3258
     semantic_scholar_id: https://www.semanticscholar.org/author/Cagri-Toraman/2648640
     username: ~Cagri_Toraman1
-  - emails: '****@ieee.org'
-    first_name: Gokhan
-    google_scholar_id: https://scholar.google.com/citations?user=8XSlAp4AAAAJ&hl=en
-    institution: University of Illinois at Urbana-Champaign
-    last_name: Tur
-    name: Gokhan Tur
-    semantic_scholar_id: https://www.semanticscholar.org/author/Gokhan-Tur/5108268
-    username: ~Gokhan_Tur2
   - emails: '****@ieee.org'
     first_name: Gokhan
     google_scholar_id: https://scholar.google.com/citations?user=8XSlAp4AAAAJ&hl=en

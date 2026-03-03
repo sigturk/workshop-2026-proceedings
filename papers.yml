@@ -245,8 +245,8 @@
     first_name: Aytuğ
     institution: Izmir Institute of Technology
     last_name: Onan
-    name: aytugonan@gmail.com
-    username: aytugonan@gmail.com
+    name: Aytuğ Onan
+    username: ~Aytuğ_Onan1
   decision: EACL
   file: 8.pdf
   id: 8
@@ -586,73 +586,73 @@
     middle_name: Aysu
     institution: Bilkent University
     last_name: Cengiz
-    name: ayseaysu.cengiz@gmail.com
-    username: ayseaysu.cengiz@gmail.com
+    name: Ayşe Aysu Cengiz
+    username: ~Ayşe_Aytuğ_Cengiz1
   - emails: umutluecem@gmail.com
     first_name: Elif
     middle_name: Ecem
     institution: METU, Middle East Technical University
     last_name: Arslan
-    name: umutluecem@gmail.com
-    username: umutluecem@gmail.com
+    name: Elif Ecem Arslan
+    username: ~Elif_Ecem_Arslan1
   - emails: gorkem.sevinc@metu.edu.tr
     first_name: Görkem
     institution: METU, Middle East Technical University
     last_name: Sevinç
-    name: gorkem.sevinc@metu.edu.tr
-    username: gorkem.sevinc@metu.edu.tr
+    name: Görkem Sevinç
+    username: ~Görkem_Sevinç1
   - emails: sarp.kantar@metu.edu.tr
     first_name: Sarp
     institution: METU, Middle East Technical University
     last_name: Kantar
-    name: sarp.kantar@metu.edu.tr
-    username: sarp.kantar@metu.edu.tr
+    name: Sarp Kantar
+    username: ~Sarp_Kantar1
   - emails: mete.birdal@turkcell.com.tr
     first_name: Mete
     middle_name: Mert
     institution: Turkcell AI
     last_name: Birdal
-    name: mete.birdal@turkcell.com.tr
-    username: mete.birdal@turkcell.com.tr
+    name: Mete Mert Birdal
+    username: ~Mete_Mert_Birdal1
   - emails: yusuf.guldemir@turkcell.com.tr
     first_name: Yusuf
     middle_name: Faruk
     institution: NA
     last_name: Güldemir
-    name: yusuf.guldemir@turkcell.com.tr
-    username: yusuf.guldemir@turkcell.com.tr
+    name: Yusuf Güldemir
+    username: ~Yusuf_Güldemir1
   - emails: ali.kanburoglu@turkcell.com.tr
     first_name: Ali
     middle_name: Buğra
     institution: Turkcell AI
     last_name: Kanburoğlu
-    name: ali.kanburoglu@turkcell.com.tr
-    username: ali.kanburoglu@turkcell.com.tr
+    name: Ali Buğra Kanburoğlu
+    username: ~Ali_Buğra_Kanburoğlu1
   - emails: sezen.yavan@gmail.com
     first_name: Sezen
     institution: NA
     last_name: Felekoğlu
-    name: sezen.yavan@gmail.com
-    username: sezen.yavan@gmail.com
+    name: Sezen Felekoğlu
+    username: ~Sezen_Felekoğlu1
   - emails: birsahin@hacettepe.edu.tr
     first_name: Birsen
     middle_name: Şahin
     institution: NA
     last_name: Kütük
-    name: birsahin@hacettepe.edu.tr
-    username: birsahin@hacettepe.edu.tr
+    name: Birşen Şahin Kütük
+    username: ~Birşen_Şahin_Kütük1
   - emails: busratufan@hacettepe.du.tr
     first_name: Büşra
     institution: Hacettepe University
     last_name: Tufan
-    name: busratufan@hacettepe.du.tr
-    username: busratufan@hacettepe.du.tr
+    name: Büşra Tufan
+    username: ~Büşra_Tufan1
   - emails: gencelif@hacettepe.edu.tr
     first_name: Elif
     institution: Hacettepe University
     last_name: Genç
-    name: gencelif@hacettepe.edu.tr
-    username: gencelif@hacettepe.edu.tr
+    name: Elif Genç
+    username: ~Elif_Genç1
   - emails: '****@hacettepe.edu.tr'
     first_name: Serkan
     homepage: https://avesis.hacettepe.edu.tr/serkancoskun
@@ -665,8 +665,8 @@
     middle_name: Ekin
     institution: Hacettepe University
     last_name: Demir
-    name: gupsekind@gmail.com
-    username: gupsekind@gmail.com
+    name: Gupse Ekin
+    username: ~Gupse_Ekin1
   - emails: '****@std.bogazici.edu.tr'
     first_name: Muhammed
     institution: Bogazici University
@@ -767,15 +767,15 @@
     first_name: Ömer
     institution: Roketsan Inc., Artificial Intelligence Unit
     last_name: İlbilgi
-    name: omer.ilbilgi@roketsan.com.tr
-    username: omer.ilbilgi@roketsan.com.tr
+    name: Ömer İlbilgi
+    username: ~Ömer_İlbilgi1
   - emails: yilmaz.ozge_01@metu.edu.tr
     first_name: Elif
     middle_name: Özge
     institution: Middle East Technical University
     last_name: Yılmaz
-    name: yilmaz.ozge_01@metu.edu.tr
-    username: yilmaz.ozge_01@metu.edu.tr
+    name: Elif Özge Yılmaz
+    username: ~Elif_Özge_Yılmaz1
   - dblp_id: https://dblp.org/pid/31/10606
     emails: '****@metu.edu.tr'
     first_name: Cagri
